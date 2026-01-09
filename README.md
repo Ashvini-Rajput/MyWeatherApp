@@ -1,3 +1,3 @@
 # MyWeatherApp
-This is my project files
+This is my project files.
 Author - Ashvini Rajput
